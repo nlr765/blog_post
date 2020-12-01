@@ -1,0 +1,26 @@
+body {
+    background-color: #808080;
+    margin: 40px;
+}
+
+h1 {
+    height: 100px;
+    text-align: center;
+    color: #c1f7b8;
+}
+
+p{
+    text-align: center;
+}
+
+.content_container {
+    float: left;
+    width: 375px;
+    height: 300px;
+}
+
+.img {
+    float: right;
+    width: auto;
+    height: 300px;
+}
